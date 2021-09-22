@@ -1,2 +1,2 @@
-gem 'github-pages'
+gem 'HomePage'
 source 'https://rubygems.org'
