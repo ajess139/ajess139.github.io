@@ -1,11 +1,18 @@
 ---
 layout: page
-title: Resources
+title: Site Resources
 description: Resources related to GitHub Pages websites
 ---
 
-This is a minimal tutorial to get you started. There are lots of
-other resources.
+This site uses [Jekyll](https://jekyllrb.com/), a
+[ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
+convert Markdown files to html, and this part is done
+automatically when you push the materials to the default branch
+of a GitHub repository.
+
+The source for this minimal website is [on github](https://github.com/kbroman/simple_site).
+
+Links:
 
 - [GitHub Pages](https://pages.github.com)
 - [Jekyll](https://jekyllrb.com)
