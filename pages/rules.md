@@ -6,13 +6,20 @@ description: Rules and regulations for the team and mentors
 
 **Every Wild Card team member, student and mentor, must adhere to the following rules**
 
-## Robotics Shop rules
-- Masks are required at all times
-- Closed toe and heel Shoes are required
-- Safety glasses are required
+## Robotics Room rules
+### Required Attire
+- Masks
+- Closed toed and closed heel shoes
+- Safety glasses
+- No dangling jewelry (earrings, bracelets, etc)
+
+### Food and Beverages Rules
+- No Food and Beverages in the main lab area, only the hallway or designated tables
 - NO Peanuts or nuts of any kind in the shop
-- Food and Beverages need to stay in the hallway
+
+### General Rules
 - No throwing ANYTHING in the room (balls, bolts, paper, etc)
+- No leaning on outlet columns
 
 ## Code Development rules
 TBD.  Expect a full set of rules regarding the github codebase shortly.
