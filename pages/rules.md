@@ -24,4 +24,5 @@ description: Rules and regulations for the team and mentors
 ## Code Development rules
 TBD.  Expect a full set of rules regarding the github codebase shortly.
 
+---
 *This page is a work in progress, stay tune for updates.*
