@@ -22,6 +22,9 @@ Setting Up the Field
 Setting up the Field
 
 
+Test link [](https://firebears.org/2021-minnesota-robotics-invitational/)
+
+
 ---
 - [FRC Resources](pages/firstoverview.html)
 - [Calender of Events](pages/calender.html)
