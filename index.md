@@ -15,7 +15,11 @@ This site is a work-in-progress, some information may be missing.  Thank you for
 
 ### Test Photo
 
+Setting Up the Field
+
 ![Setting up in the field](assets/images/MRI2020/MRI202_SettingUp.jpg)
+
+Setting up the Field
 
 
 ---
